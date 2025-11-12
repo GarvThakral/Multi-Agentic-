@@ -1,0 +1,1 @@
+The context about the platforms , website and every other important aspect is recieved from a file called "variables.json". This file contains keys needed to provide the model about all the context , the env file stores OPENAI_API_KEY
